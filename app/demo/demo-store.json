@@ -1,0 +1,288 @@
+{
+  "_comment": "Raw Admin GraphQL nodes from ivig-demo-store (CatalogProducts / CatalogCollections), captured 2026-09-30. The seeded issues are listed in the README's 'Demo store' section.",
+  "products": [
+    {
+      "id": "gid://shopify/Product/15354623361256",
+      "title": "Black Graphic Hoodie",
+      "handle": "black-graphic-hoodie",
+      "descriptionHtml": "<p>Heavyweight cotton hoodie with a bold front print.</p>",
+      "seo": {
+        "title": "Black Graphic Hoodie | Heavyweight Cotton",
+        "description": "Heavyweight black cotton hoodie with a bold front graphic, relaxed fit and brushed fleece lining. Available in sizes S to XL."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540056296",
+            "alt": "",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-walk-main-59041d573835-768_240x240.webp?v=1790755401"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623328488",
+      "title": "Black-Dial Steel Watch",
+      "handle": "black-dial-steel-watch",
+      "descriptionHtml": "<p>A classic three-hand watch with a matte black dial, applied silver indices and a 40 mm brushed stainless steel case. The sapphire-coated crystal resists everyday scratches, and the quick-release strap system lets you switch between the included black leather strap and any standard 20 mm band. Water resistant to 50 metres, so a rainy commute or a washed hand is no problem.</p>",
+      "seo": {
+        "title": "Black Dial Stainless Steel Men's Watch with Sapphire Crystal and Leather Strap - Perfect Gift",
+        "description": "40 mm stainless steel watch with a matte black dial, sapphire-coated crystal and quick-release leather strap. Water resistant to 50 m."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327539794152",
+            "alt": "Black-dial steel watch worn with navy tailoring at a café table",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/cafe-moment_240x240.webp?v=1790755400"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623656168",
+      "title": "Camel Felt Hat",
+      "handle": "camel-felt-hat",
+      "descriptionHtml": "<p>Wool felt hat in camel.</p>",
+      "seo": { "title": null, "description": null },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327541498088",
+            "alt": "Café portrait of a person wearing a camel wool felt hat",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-cafe-main-e26fab2dbf97-768_240x240.webp?v=1790755408"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623262952",
+      "title": "Colorblock Leather Satchel",
+      "handle": "colorblock-leather-satchel",
+      "descriptionHtml": "<p>A structured black leather satchel with colorful side panels in mustard, teal and rust. The top handle and detachable shoulder strap let you carry it by hand or across the body, and the magnetic flap keeps your phone, wallet and a small tablet secure. Inside there are two slip pockets and a zipped compartment for keys and cards. Finished with brushed brass hardware that softens with use.</p>",
+      "seo": {
+        "title": "Colorblock Leather Satchel | Black with Color Panels",
+        "description": "Black leather satchel with mustard, teal and rust side panels, top handle and detachable strap. Fits a phone, wallet and small tablet."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327538778344",
+            "alt": "Woman at a café holding a black leather satchel with mustard, teal and rust side panels",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-1_240x240.webp?v=1790755398"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623623400",
+      "title": "Gold Tin Candle",
+      "handle": "gold-tin-candle",
+      "descriptionHtml": "<p>A small travel candle poured into a brushed gold tin, scented with amber, cedar and a hint of orange peel. The soy wax blend burns cleanly for around 25 hours, and the lid makes it easy to take on weekends away or keep in a desk drawer. Once finished, the tin is ideal for pins, rings or earrings. Hand poured in small batches.</p>",
+      "seo": {
+        "title": "Gold Tin Candle | Amber, Cedar and Orange",
+        "description": "Our best-selling small travel candle poured into a brushed gold tin and scented with warm amber, cedar wood and a hint of fresh orange peel, with a clean-burning soy wax blend that lasts around 25 hours and a reusable tin for rings and pins."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327541268712",
+            "alt": "Woman holding a small gold tin candle in a warm living room",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/scale-in-hand_240x240.webp?v=1790755407"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623394024",
+      "title": "Purple Varsity Jacket",
+      "handle": "purple-varsity-jacket",
+      "descriptionHtml": "<p>A vintage-inspired varsity jacket in deep purple wool with cream contrast sleeves, a striped rib collar and snap-button front. The relaxed fit layers easily over a hoodie, and the quilted lining keeps it warm on cold autumn evenings. Chenille patch details and two welt pockets finish the classic campus look without feeling like a costume.</p>",
+      "seo": {
+        "title": "Purple Varsity Jacket | Wool with Contrast Sleeves",
+        "description": "Vintage-inspired varsity jacket with wool body, contrast sleeves and chenille details. Relaxed fit, available in S to XL."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540089064",
+            "alt": "Smiling woman wearing a purple varsity jacket in a brick neighborhood",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-front_240x240.webp?v=1790755402"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623295720",
+      "title": "Saddle Leather Crossbody Bag",
+      "handle": "saddle-leather-crossbody-bag",
+      "descriptionHtml": "<p>A compact crossbody bag in warm saddle-brown leather with an adjustable strap and antique brass buckle. It holds the everyday essentials, phone, cardholder, keys and sunglasses, without the bulk of a full handbag. The leather is vegetable-tanned, so it darkens and develops a rich patina over time. A zipped back pocket keeps your transit card within easy reach.</p>",
+      "seo": { "title": "Saddle Leather Crossbody Bag", "description": null },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327539466472",
+            "alt": "",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-1-main-4fa70cd7eeac-768_240x240.webp?v=1790755399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623525096",
+      "title": "Two-Tone Entry Bench",
+      "handle": "two-tone-entry-bench",
+      "descriptionHtml": "<p>A slim entryway bench in natural and smoked pine with tapered legs and a lower slatted shelf for shoes. It gives you a place to sit while you lace up, and the shelf keeps the hallway tidy. The bench seats two adults comfortably and is built from sustainably sourced pine with a durable matte lacquer that wipes clean. Simple assembly with four bolts.</p>",
+      "seo": {
+        "title": "Two-Tone Pine Entry Bench with Shoe Shelf",
+        "description": "Two-tone pine bench."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540711656",
+            "alt": "",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/08-seated_240x240.webp?v=1790755404"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623459560",
+      "title": "Two-Tone Varsity Jacket",
+      "handle": "two-tone-varsity-jacket",
+      "descriptionHtml": "<p>A two-tone varsity jacket in navy and off-white with a clean, minimal front and ribbed cuffs. It is cut from a wool blend that holds its shape through daily wear, with a soft quilted lining and snap closure. Easy to pair with jeans and trainers for the weekend or with chinos when the evening turns cooler. Two side pockets keep your hands warm.</p>",
+      "seo": {
+        "title": "Two-Tone Varsity Jacket | Navy and Off-White",
+        "description": "Vintage-inspired varsity jacket with wool body, contrast sleeves and chenille details. Relaxed fit, available in S to XL."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540416744",
+            "alt": "Man walking through the city in a two-tone varsity jacket",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/lifestyle-walk-main-44d81e0f7da4-768_240x240.webp?v=1790755403"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623492328",
+      "title": "Walnut Wall Shelf",
+      "handle": "walnut-wall-shelf",
+      "descriptionHtml": "<p>A compact floating shelf in solid walnut with rounded front corners and a hidden steel bracket. At 60 cm wide it fits above a desk, beside a bed or in a narrow hallway, and it carries up to 10 kg of books, plants and ceramics. Each shelf is finished with a natural oil that brings out the grain and is easy to refresh at home. Wall fixings are included.</p>",
+      "seo": {
+        "title": "Walnut Wall Shelf | Solid Wood Floating Shelf",
+        "description": "Solid walnut floating shelf, 60 cm wide, with a hidden steel bracket and natural oil finish. Holds up to 10 kg. Fixings included."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540515048",
+            "alt": "Man placing a cream vase on a compact walnut wall shelf",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/08-placing-vase-main-e1a8a1b05e0e-768_240x240.webp?v=1790755404"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623557864",
+      "title": "Wave Bowl",
+      "handle": "wave-bowl",
+      "descriptionHtml": "<p>A hand-thrown stoneware bowl in a warm ochre glaze with a softly rippled rim. Each piece is shaped and glazed by hand, so the colour pools and breaks slightly differently on every bowl. Use it for fruit on the kitchen counter, keys by the door or as a centrepiece on an oak console. Food safe and dishwasher safe, 24 cm across.</p>",
+      "seo": {
+        "title": "Ochre Wave Bowl | Hand-Thrown Stoneware",
+        "description": "Hand-thrown stoneware bowl in a warm ochre glaze with a rippled rim, 24 cm across. Food safe and dishwasher safe."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327540973800",
+            "alt": "Ochre wave bowl on an oak console in a softly lit room",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/02-oak-console_240x240.webp?v=1790755405"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15354623590632",
+      "title": "Wave Bowl",
+      "handle": "wave-bowl-1",
+      "descriptionHtml": "<p>A hand-thrown stoneware bowl in a calm sea-green glaze with a softly rippled rim. Each piece is shaped and glazed by hand, so the colour pools and breaks slightly differently on every bowl. It works as a serving bowl on the dining table or as a quiet decorative piece on a shelf. Food safe and dishwasher safe, 24 cm across.</p>",
+      "seo": {
+        "title": "Sea-Green Wave Bowl | Hand-Thrown Stoneware",
+        "description": "Hand-thrown stoneware bowl in a sea-green glaze with a rippled rim, 24 cm across. Food safe and dishwasher safe."
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46327541039336",
+            "alt": "Sea-green wave bowl on a dining table",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0813/6140/4136/files/03-dining-table-main-5beafcab89ac-768_240x240.webp?v=1790755406"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/509170745576",
+      "title": "Apparel",
+      "handle": "apparel",
+      "descriptionHtml": "<p>Varsity jackets and graphic hoodies with a relaxed, vintage-inspired fit.</p>",
+      "seo": { "title": null, "description": null },
+      "productsCount": { "count": 3 }
+    },
+    {
+      "id": "gid://shopify/Collection/509170712808",
+      "title": "Bags & Accessories",
+      "handle": "bags-accessories",
+      "descriptionHtml": "<p>Leather bags, watches and hats made for everyday wear, from café mornings to city evenings.</p>",
+      "seo": {
+        "title": "Bags & Accessories | iviG Demo Store",
+        "description": "Leather satchels, crossbody bags, steel watches and felt hats designed for everyday city life. Free shipping on orders over $100."
+      },
+      "productsCount": { "count": 4 }
+    },
+    {
+      "id": "gid://shopify/Collection/509170778344",
+      "title": "Home & Living",
+      "handle": "home-living",
+      "descriptionHtml": "",
+      "seo": { "title": null, "description": null },
+      "productsCount": { "count": 5 }
+    },
+    {
+      "id": "gid://shopify/Collection/509170516200",
+      "title": "Home page",
+      "handle": "frontpage",
+      "descriptionHtml": "",
+      "seo": { "title": null, "description": null },
+      "productsCount": { "count": 1 }
+    }
+  ]
+}
